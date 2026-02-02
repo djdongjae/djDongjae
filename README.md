@@ -18,6 +18,5 @@
 <div align=center>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=isf1999)](https://solved.ac/isf1999)
-![Dong-Jae's GitHub stats](https://github-readme-stats.vercel.app/api?username=djdongjae&show_icons=true&theme=radical)
 
 </div>      
